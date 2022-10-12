@@ -1,0 +1,16 @@
+.chatRoom {
+    flex: 2;
+}
+
+.chatRoom__header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7360f2;
+    height: 60px;
+    z-index: 999;
+}
+
+.chatRoom__headerText {
+    color: #fff;
+}

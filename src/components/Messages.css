@@ -1,0 +1,9 @@
+.messages {
+    height: calc(100% - 115px);
+    overflow-y: scroll;
+}
+
+.messages::-webkit-scrollbar {
+    display: none;
+    /* Safari and Chrome */
+}

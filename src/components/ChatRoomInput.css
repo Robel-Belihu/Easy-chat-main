@@ -1,0 +1,28 @@
+.chatRoom__input {
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: #7360f2;
+    padding: 5px;
+    z-index: 999;
+}
+
+.input__field {
+    margin-left: 10px;
+    margin-right: 10px;
+    border: none;
+    width: 80%;
+    height: 60%;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.chatRoom__button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #7360f2;
+    font-weight: 600;
+
+}

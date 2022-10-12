@@ -1,0 +1,44 @@
+.text {
+    display: flex;
+    gap: 15px;
+
+}
+
+.text__img {
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+}
+
+.text__content {
+    max-width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+
+.text__content>p {
+    background-color: antiquewhite;
+    padding: 10px 20px;
+    border-radius: 0 10px 10px 10px;
+    max-width: max-content;
+}
+
+.textContent__img {
+    width: 50%;
+    border-radius: 10px;
+}
+
+.owner {
+    flex-direction: row-reverse;
+    margin-right: 5px;
+}
+
+.owner>.text__content>p {
+    background-color: #7360f2;
+    color: #fff;
+    border-radius: 10px 0px 10px 10px;
+}
+
+.owner>.text__content {
+    align-items: flex-end;
+}
