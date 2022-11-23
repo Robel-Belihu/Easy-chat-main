@@ -1,0 +1,9 @@
+.sidebar {
+  flex: 1;
+  border-right: solid 1px #7360f2;
+  background-color: #4b0082;
+}
+
+.container__sidebar {
+  /* background-color: red; */
+}
