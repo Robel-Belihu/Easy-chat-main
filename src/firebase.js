@@ -5,13 +5,13 @@ import { getFirestore } from "firebase/firestore";
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAh34P8vdVFZJq9mdj6ACgkPURofxGt780",
-  authDomain: "easy-chat-43051.firebaseapp.com",
-  projectId: "easy-chat-43051",
-  storageBucket: "easy-chat-43051.appspot.com",
-  messagingSenderId: "727499866816",
-  appId: "1:727499866816:web:a2c14fd8bea9a06873e325",
-  measurementId: "G-6YSFJP14RR",
+  apiKey: "AIzaSyCWPH6Oxzc0kt0A1obtGJScZDGJibcfNyY",
+  authDomain: "tryout-66924.firebaseapp.com",
+  projectId: "tryout-66924",
+  storageBucket: "tryout-66924.appspot.com",
+  messagingSenderId: "543992358091",
+  appId: "1:543992358091:web:6d7f6c8221717142d1274e",
+  measurementId: "G-NMYV2XGLNX",
 };
 
 export const app = initializeApp(firebaseConfig);
