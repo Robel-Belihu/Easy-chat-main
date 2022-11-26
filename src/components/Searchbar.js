@@ -30,7 +30,7 @@ function Searchbar() {
               {/* {chat[1].userInfo.displayName} */}
             </span>
             <p>
-              blah blah
+              Chat content
               {/* {chat[1].lastMessage?.text} */}
             </p>
           </div>
